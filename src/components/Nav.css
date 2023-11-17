@@ -1,0 +1,11 @@
+
+
+.headerTitle {
+    font-style: italic;
+    flex-grow: 1;
+  }
+  
+  .button {
+    margin-left: 8px; /* You can adjust the margin as needed */
+  }
+  
